@@ -1,6 +1,6 @@
-PROGRAM 1
-PROGRAM 3
-PROGRAM 4
-PROGRAM 5
-PROGRAM 7
-PROGRAM 8
+hybrid inheritance 
+number of fruit in the basket
+updating account
+area of circle 
+mark of student
+average marks
